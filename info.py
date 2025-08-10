@@ -96,7 +96,7 @@ IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', False))
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/rkmoviezip')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/rkmovieszip')
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/looterekrish')
-Lootere_MOVIE_UPDATE_CHANNEL_LNK = environ.get('Lootere_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/krish_filmy')
+Lootere_MOVIE_UPDATE_CHANNEL_LNK = environ.get('Lootere_MOVIE_UPDATE_CHANNEL_LNK', 'https://t.me/krishfilmy')
 OWNERID = int(os.environ.get('OWNERID', '1798348973 '))  # Replace with the actual admin ID
 
 # ============================
