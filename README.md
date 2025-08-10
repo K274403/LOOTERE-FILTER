@@ -1,17 +1,15 @@
 <p align="center"> <img src="https://github.com/MrRaazz/Pics/blob/main/deenu.jpg"> </p>
-<h1 align="center"> 𝑫𝒆𝒆𝒏𝒅𝒂𝒚𝒂𝒍_𝒅𝒉𝒂𝒌𝒂𝒅 </h1>
-
-### 🔥 [Check Out the Upgraded Version](https://github.com/MrRaazz/Dreamcinezone.git)
+<h1 align="center"> LOOTERE </h1>
 
 **OWNER**
 <!-- > ## ⚠ <u>Under Maintenance</u> ⚠  
 > This repository is currently under maintenance. Please **DO NOT deploy** until further notice. -->
 
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/Lootere_Support_Group)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://t.me/LooterEKRISH)
 
 First Check our **Demo** bot -
 
-[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Princess_V4_bot)](https://t.me/Princess_V4_bot)
+[![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/rk_fILTER_BOT)](https://t.me/rk_fILTER_BOT)
 
 ## Special Thanks To
 
@@ -23,13 +21,13 @@ First Check our **Demo** bot -
 
 ### 🌴 [Hᴀʀsʜᴀʟ Pᴜʀᴏʜɪᴛ Eᴅɪᴛs](https://github.com/HarshalPurohitEdits)
 
-### 🌴 [Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ](https://t.me/Lootere_Support_Group)
+### 🌴 [Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ](https://t.me/Rkmoviezip)
 
 ### Need Deployment Support?
 
 If you encounter any issues **Deploying** the bot, feel free to seek assistance in our **support group**:
 
-[![Join Support Group    ](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Lootere_Support_Group)](https://t.me/Lootere_Support_Group)
+[![Need Help..?    ](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Lootere_Support_Group)](https://t.me/Looterekrish)
 
 #𝑫𝒐𝒖𝒃𝒍𝒆 𝑫𝑩 𝒔𝒖𝒑𝒑𝒐𝒓𝒕
 
