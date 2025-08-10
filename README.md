@@ -11,24 +11,6 @@ First Check our **Demo** bot -
 
 [![Click Here](https://img.shields.io/badge/Demo%20Bot-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/rk_fILTER_BOT)](https://t.me/rk_fILTER_BOT)
 
-## Special Thanks To
-
-### 🌴 [Sᴀʜɪᴅ ᴍᴀʟɪᴋ](https://github.com/Sahidmalik001)
-
-### 🌴 [⌯ Ꭺɴᴏɴʏᴍᴏᴜꜱ | ×͜× |](https://t.me/BeingXAnonymous)
-
-### 🌴 [Mʀ Rᴀᴀᴢᴢ](https://github.com/MrRaazz)
-
-### 🌴 [Hᴀʀsʜᴀʟ Pᴜʀᴏʜɪᴛ Eᴅɪᴛs](https://github.com/HarshalPurohitEdits)
-
-### 🌴 [Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ](https://t.me/Rkmoviezip)
-
-### Need Deployment Support?
-
-If you encounter any issues **Deploying** the bot, feel free to seek assistance in our **support group**:
-
-[![Need Help..?    ](https://img.shields.io/badge/Join%20Support%20Group-Click%20Here-blue?style=flat&logo=telegram&labelColor=white&link=https://t.me/Lootere_Support_Group)](https://t.me/Looterekrish)
-
 #𝑫𝒐𝒖𝒃𝒍𝒆 𝑫𝑩 𝒔𝒖𝒑𝒑𝒐𝒓𝒕
 
   **features**
@@ -89,7 +71,7 @@ If you encounter any issues **Deploying** the bot, feel free to seek assistance 
 - [x] 𝐴𝑢𝑡𝑜 𝐷𝑒𝑙𝑒𝑡𝑒
 - [x] 𝐴𝑛𝑑 𝑀𝑜𝑟𝑒...
 
-<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/dreamcinezone'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
+<b>𝑇𝑜 𝑘𝑛𝑜𝑤 𝑎𝑏𝑜𝑢𝑡 𝑎𝑙𝑙 𝑓𝑒𝑎𝑡𝑢𝑟𝑒𝑠, 𝐽𝑜𝑖𝑛 𝑜𝑢𝑟 <a href='https://t.me/rkmovieszip'>𝑢𝑝𝑑𝑎𝑡𝑒𝑠 𝑐ℎ𝑎𝑛𝑛𝑒𝑙</a>.</b>
 
 ## 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠
 ```
@@ -137,6 +119,6 @@ This repository is provided for educational purposes only. It is not intended fo
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/Lootere403/Lootere_dhakad/blob/Lootere_dhakad/LICENSE)
+This project is licensed under the [MIT License](https://github.com/Lootere403/Lootere/blob/Lootere/LICENSE)
 
-### Jai Shree Krishna  !😉
+### Radhe Radhe  !😉
